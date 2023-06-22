@@ -1,0 +1,17 @@
+.link {
+  text-decoration: none;
+}
+
+.header {
+  background-color: #f1f5f9;
+  width: 100%;
+  height: 80px;
+  display: flex;
+  align-items: center;
+  padding-left: 50px;
+}
+
+.web-logo {
+  width: 120px;
+  height: 50px;
+}

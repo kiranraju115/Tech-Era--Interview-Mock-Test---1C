@@ -1,0 +1,23 @@
+.link {
+  text-decoration: none;
+}
+
+.era-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 0px 20px 20px 0px;
+}
+
+.era-image {
+  width: 60px;
+  height: 60px;
+  margin-right: 10px;
+}
+
+.era-name {
+  font-family: 'Roboto';
+  color: #1e293b;
+  font-weight: 500;
+  font-size: 20px;
+}

@@ -1,0 +1,31 @@
+.failure-image {
+  width: 30%;
+}
+
+.failure-heading {
+  font-family: 'Roboto';
+  color: #475569;
+  font-weight: 700;
+  font-size: 30px;
+}
+
+.failure-msg {
+  font-family: 'Roboto';
+  color: #475569;
+  font-weight: 400;
+  font-size: 16px;
+}
+
+.retry-button {
+  width: 80px;
+  height: 30px;
+  background-color: #4656a1;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  font-family: 'Roboto';
+  color: #ffffff;
+  font-weight: 500;
+  font-size: 14px;
+  border-radius: 4px;
+}
